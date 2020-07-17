@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Hp\\AndroidStudioProjects\\Pemesanan-Travel-master\\Pemesanan-Travel-master\\TravelApps\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-large-v4\\values-large-v4.xml",
+            "outputFile": "C:\\Users\\Hp\\Documents\\Tugas_Kelompok4\\Kelompok4-PemesananTravel\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-large-v4\\values-large-v4.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Hp\\.gradle\\caches\\transforms-2\\files-2.1\\a0fae3d9013be8f69fa615280ce21ea3\\material-1.0.0\\res\\values-large-v4\\values-large-v4.xml",

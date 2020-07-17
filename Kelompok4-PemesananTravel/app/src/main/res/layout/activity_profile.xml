@@ -61,7 +61,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_below="@+id/txtName"
-                        android:text="Azhar Rivaldi"
+                        android:text="kelompok 4"
                         android:textSize="16sp" />
 
                     <TextView
@@ -79,7 +79,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_below="@+id/txtEmail"
-                        android:text="azharrivaldi@gmail.com"
+                        android:text="kelompok4@gmail.com"
                         android:textSize="16sp" />
 
                 </RelativeLayout>

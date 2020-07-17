@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Hp\AndroidStudioProjects\Pemesanan-Travel-master\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:2:1-44:12
-INJECTED from C:\Users\Hp\AndroidStudioProjects\Pemesanan-Travel-master\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:2:1-44:12
-INJECTED from C:\Users\Hp\AndroidStudioProjects\Pemesanan-Travel-master\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:2:1-44:12
-INJECTED from C:\Users\Hp\AndroidStudioProjects\Pemesanan-Travel-master\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:2:1-44:12
+ADDED from C:\Users\Hp\Documents\Tugas_Kelompok4\Kelompok4-PemesananTravel\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\Hp\Documents\Tugas_Kelompok4\Kelompok4-PemesananTravel\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\Hp\Documents\Tugas_Kelompok4\Kelompok4-PemesananTravel\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\Hp\Documents\Tugas_Kelompok4\Kelompok4-PemesananTravel\app\src\main\AndroidManifest.xml:2:1-44:12
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\a0fae3d9013be8f69fa615280ce21ea3\material-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\db50d9c729baed83bc3da6fe28ac0e91\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\9f3ac530cd999c3dc276f567e709324b\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
@@ -38,27 +38,27 @@ MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Hp\.gradle\caches\tr
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\5ddfb8e145910ccd8c0082a842036fc4\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\98c07ae8c5823fd3bdaa91112965dec8\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\78f42912b2b79c0e9bc7b7bca72757d0\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\Hp\AndroidStudioProjects\Pemesanan-Travel-master\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:2:1-44:12
-INJECTED from C:\Users\Hp\AndroidStudioProjects\Pemesanan-Travel-master\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:2:1-44:12
-INJECTED from C:\Users\Hp\AndroidStudioProjects\Pemesanan-Travel-master\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\Hp\Documents\Tugas_Kelompok4\Kelompok4-PemesananTravel\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\Hp\Documents\Tugas_Kelompok4\Kelompok4-PemesananTravel\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\Hp\Documents\Tugas_Kelompok4\Kelompok4-PemesananTravel\app\src\main\AndroidManifest.xml:2:1-44:12
 	package
-		ADDED from C:\Users\Hp\AndroidStudioProjects\Pemesanan-Travel-master\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:4:5-35
-		INJECTED from C:\Users\Hp\AndroidStudioProjects\Pemesanan-Travel-master\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Hp\AndroidStudioProjects\Pemesanan-Travel-master\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Hp\Documents\Tugas_Kelompok4\Kelompok4-PemesananTravel\app\src\main\AndroidManifest.xml:4:5-35
+		INJECTED from C:\Users\Hp\Documents\Tugas_Kelompok4\Kelompok4-PemesananTravel\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Hp\Documents\Tugas_Kelompok4\Kelompok4-PemesananTravel\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\Hp\AndroidStudioProjects\Pemesanan-Travel-master\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Hp\AndroidStudioProjects\Pemesanan-Travel-master\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:2:1-44:12
-		INJECTED from C:\Users\Hp\AndroidStudioProjects\Pemesanan-Travel-master\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Hp\Documents\Tugas_Kelompok4\Kelompok4-PemesananTravel\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Hp\Documents\Tugas_Kelompok4\Kelompok4-PemesananTravel\app\src\main\AndroidManifest.xml:2:1-44:12
+		INJECTED from C:\Users\Hp\Documents\Tugas_Kelompok4\Kelompok4-PemesananTravel\app\src\main\AndroidManifest.xml
 	xmlns:tools
-		ADDED from C:\Users\Hp\AndroidStudioProjects\Pemesanan-Travel-master\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:3:5-51
+		ADDED from C:\Users\Hp\Documents\Tugas_Kelompok4\Kelompok4-PemesananTravel\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from C:\Users\Hp\AndroidStudioProjects\Pemesanan-Travel-master\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Hp\AndroidStudioProjects\Pemesanan-Travel-master\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:2:1-44:12
-		INJECTED from C:\Users\Hp\AndroidStudioProjects\Pemesanan-Travel-master\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Hp\Documents\Tugas_Kelompok4\Kelompok4-PemesananTravel\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Hp\Documents\Tugas_Kelompok4\Kelompok4-PemesananTravel\app\src\main\AndroidManifest.xml:2:1-44:12
+		INJECTED from C:\Users\Hp\Documents\Tugas_Kelompok4\Kelompok4-PemesananTravel\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\Hp\AndroidStudioProjects\Pemesanan-Travel-master\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\Hp\Documents\Tugas_Kelompok4\Kelompok4-PemesananTravel\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\Hp\AndroidStudioProjects\Pemesanan-Travel-master\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:6:5-42:15
+ADDED from C:\Users\Hp\Documents\Tugas_Kelompok4\Kelompok4-PemesananTravel\app\src\main\AndroidManifest.xml:6:5-42:15
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\a0fae3d9013be8f69fa615280ce21ea3\material-1.0.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\a0fae3d9013be8f69fa615280ce21ea3\material-1.0.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\9f3ac530cd999c3dc276f567e709324b\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
@@ -70,77 +70,77 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Hp
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.1.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\12f6e28635c6f23ab2935deebdc0822c\core-1.1.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from C:\Users\Hp\AndroidStudioProjects\Pemesanan-Travel-master\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:11:9-35
+		ADDED from C:\Users\Hp\Documents\Tugas_Kelompok4\Kelompok4-PemesananTravel\app\src\main\AndroidManifest.xml:11:9-35
 	android:label
-		ADDED from C:\Users\Hp\AndroidStudioProjects\Pemesanan-Travel-master\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:9:9-41
+		ADDED from C:\Users\Hp\Documents\Tugas_Kelompok4\Kelompok4-PemesananTravel\app\src\main\AndroidManifest.xml:9:9-41
 	tools:ignore
-		ADDED from C:\Users\Hp\AndroidStudioProjects\Pemesanan-Travel-master\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:13:9-60
+		ADDED from C:\Users\Hp\Documents\Tugas_Kelompok4\Kelompok4-PemesananTravel\app\src\main\AndroidManifest.xml:13:9-60
 	android:roundIcon
-		ADDED from C:\Users\Hp\AndroidStudioProjects\Pemesanan-Travel-master\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:10:9-54
+		ADDED from C:\Users\Hp\Documents\Tugas_Kelompok4\Kelompok4-PemesananTravel\app\src\main\AndroidManifest.xml:10:9-54
 	android:icon
-		ADDED from C:\Users\Hp\AndroidStudioProjects\Pemesanan-Travel-master\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:8:9-43
+		ADDED from C:\Users\Hp\Documents\Tugas_Kelompok4\Kelompok4-PemesananTravel\app\src\main\AndroidManifest.xml:8:9-43
 	android:allowBackup
-		ADDED from C:\Users\Hp\AndroidStudioProjects\Pemesanan-Travel-master\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:7:9-35
+		ADDED from C:\Users\Hp\Documents\Tugas_Kelompok4\Kelompok4-PemesananTravel\app\src\main\AndroidManifest.xml:7:9-35
 	android:theme
-		ADDED from C:\Users\Hp\AndroidStudioProjects\Pemesanan-Travel-master\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:12:9-40
+		ADDED from C:\Users\Hp\Documents\Tugas_Kelompok4\Kelompok4-PemesananTravel\app\src\main\AndroidManifest.xml:12:9-40
 activity#com.kelompok4.travel.activity.MainActivity
-ADDED from C:\Users\Hp\AndroidStudioProjects\Pemesanan-Travel-master\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:14:9-22:20
+ADDED from C:\Users\Hp\Documents\Tugas_Kelompok4\Kelompok4-PemesananTravel\app\src\main\AndroidManifest.xml:14:9-22:20
 	android:screenOrientation
-		ADDED from C:\Users\Hp\AndroidStudioProjects\Pemesanan-Travel-master\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:16:13-49
+		ADDED from C:\Users\Hp\Documents\Tugas_Kelompok4\Kelompok4-PemesananTravel\app\src\main\AndroidManifest.xml:16:13-49
 	android:name
-		ADDED from C:\Users\Hp\AndroidStudioProjects\Pemesanan-Travel-master\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:15:13-70
+		ADDED from C:\Users\Hp\Documents\Tugas_Kelompok4\Kelompok4-PemesananTravel\app\src\main\AndroidManifest.xml:15:13-70
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Hp\AndroidStudioProjects\Pemesanan-Travel-master\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:17:13-21:29
+ADDED from C:\Users\Hp\Documents\Tugas_Kelompok4\Kelompok4-PemesananTravel\app\src\main\AndroidManifest.xml:17:13-21:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Hp\AndroidStudioProjects\Pemesanan-Travel-master\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:18:17-69
+ADDED from C:\Users\Hp\Documents\Tugas_Kelompok4\Kelompok4-PemesananTravel\app\src\main\AndroidManifest.xml:18:17-69
 	android:name
-		ADDED from C:\Users\Hp\AndroidStudioProjects\Pemesanan-Travel-master\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:18:25-66
+		ADDED from C:\Users\Hp\Documents\Tugas_Kelompok4\Kelompok4-PemesananTravel\app\src\main\AndroidManifest.xml:18:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Hp\AndroidStudioProjects\Pemesanan-Travel-master\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:20:17-77
+ADDED from C:\Users\Hp\Documents\Tugas_Kelompok4\Kelompok4-PemesananTravel\app\src\main\AndroidManifest.xml:20:17-77
 	android:name
-		ADDED from C:\Users\Hp\AndroidStudioProjects\Pemesanan-Travel-master\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:20:27-74
+		ADDED from C:\Users\Hp\Documents\Tugas_Kelompok4\Kelompok4-PemesananTravel\app\src\main\AndroidManifest.xml:20:27-74
 activity#com.kelompok4.travel.activity.LoginActivity
-ADDED from C:\Users\Hp\AndroidStudioProjects\Pemesanan-Travel-master\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:23:9-27:55
+ADDED from C:\Users\Hp\Documents\Tugas_Kelompok4\Kelompok4-PemesananTravel\app\src\main\AndroidManifest.xml:23:9-27:55
 	android:screenOrientation
-		ADDED from C:\Users\Hp\AndroidStudioProjects\Pemesanan-Travel-master\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:26:13-49
+		ADDED from C:\Users\Hp\Documents\Tugas_Kelompok4\Kelompok4-PemesananTravel\app\src\main\AndroidManifest.xml:26:13-49
 	android:windowSoftInputMode
-		ADDED from C:\Users\Hp\AndroidStudioProjects\Pemesanan-Travel-master\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:27:13-52
+		ADDED from C:\Users\Hp\Documents\Tugas_Kelompok4\Kelompok4-PemesananTravel\app\src\main\AndroidManifest.xml:27:13-52
 	android:configChanges
-		ADDED from C:\Users\Hp\AndroidStudioProjects\Pemesanan-Travel-master\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:25:13-74
+		ADDED from C:\Users\Hp\Documents\Tugas_Kelompok4\Kelompok4-PemesananTravel\app\src\main\AndroidManifest.xml:25:13-74
 	android:name
-		ADDED from C:\Users\Hp\AndroidStudioProjects\Pemesanan-Travel-master\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:24:13-71
+		ADDED from C:\Users\Hp\Documents\Tugas_Kelompok4\Kelompok4-PemesananTravel\app\src\main\AndroidManifest.xml:24:13-71
 activity#com.kelompok4.travel.activity.RegisterActivity
-ADDED from C:\Users\Hp\AndroidStudioProjects\Pemesanan-Travel-master\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:28:9-32:55
+ADDED from C:\Users\Hp\Documents\Tugas_Kelompok4\Kelompok4-PemesananTravel\app\src\main\AndroidManifest.xml:28:9-32:55
 	android:screenOrientation
-		ADDED from C:\Users\Hp\AndroidStudioProjects\Pemesanan-Travel-master\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:31:13-49
+		ADDED from C:\Users\Hp\Documents\Tugas_Kelompok4\Kelompok4-PemesananTravel\app\src\main\AndroidManifest.xml:31:13-49
 	android:windowSoftInputMode
-		ADDED from C:\Users\Hp\AndroidStudioProjects\Pemesanan-Travel-master\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:32:13-52
+		ADDED from C:\Users\Hp\Documents\Tugas_Kelompok4\Kelompok4-PemesananTravel\app\src\main\AndroidManifest.xml:32:13-52
 	android:configChanges
-		ADDED from C:\Users\Hp\AndroidStudioProjects\Pemesanan-Travel-master\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:30:13-74
+		ADDED from C:\Users\Hp\Documents\Tugas_Kelompok4\Kelompok4-PemesananTravel\app\src\main\AndroidManifest.xml:30:13-74
 	android:name
-		ADDED from C:\Users\Hp\AndroidStudioProjects\Pemesanan-Travel-master\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:29:13-74
+		ADDED from C:\Users\Hp\Documents\Tugas_Kelompok4\Kelompok4-PemesananTravel\app\src\main\AndroidManifest.xml:29:13-74
 activity#com.kelompok4.travel.activity.ProfileActivity
-ADDED from C:\Users\Hp\AndroidStudioProjects\Pemesanan-Travel-master\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:33:9-35:52
+ADDED from C:\Users\Hp\Documents\Tugas_Kelompok4\Kelompok4-PemesananTravel\app\src\main\AndroidManifest.xml:33:9-35:52
 	android:screenOrientation
-		ADDED from C:\Users\Hp\AndroidStudioProjects\Pemesanan-Travel-master\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:35:13-49
+		ADDED from C:\Users\Hp\Documents\Tugas_Kelompok4\Kelompok4-PemesananTravel\app\src\main\AndroidManifest.xml:35:13-49
 	android:name
-		ADDED from C:\Users\Hp\AndroidStudioProjects\Pemesanan-Travel-master\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:34:13-73
+		ADDED from C:\Users\Hp\Documents\Tugas_Kelompok4\Kelompok4-PemesananTravel\app\src\main\AndroidManifest.xml:34:13-73
 activity#com.kelompok4.travel.activity.HistoryActivity
-ADDED from C:\Users\Hp\AndroidStudioProjects\Pemesanan-Travel-master\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:36:9-38:44
+ADDED from C:\Users\Hp\Documents\Tugas_Kelompok4\Kelompok4-PemesananTravel\app\src\main\AndroidManifest.xml:36:9-38:44
 	android:screenOrientation
-		ADDED from C:\Users\Hp\AndroidStudioProjects\Pemesanan-Travel-master\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:38:5-41
+		ADDED from C:\Users\Hp\Documents\Tugas_Kelompok4\Kelompok4-PemesananTravel\app\src\main\AndroidManifest.xml:38:5-41
 	android:name
-		ADDED from C:\Users\Hp\AndroidStudioProjects\Pemesanan-Travel-master\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:37:5-65
+		ADDED from C:\Users\Hp\Documents\Tugas_Kelompok4\Kelompok4-PemesananTravel\app\src\main\AndroidManifest.xml:37:5-65
 activity#com.kelompok4.travel.activity.BookKeretaActivity
-ADDED from C:\Users\Hp\AndroidStudioProjects\Pemesanan-Travel-master\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:39:5-41:48
+ADDED from C:\Users\Hp\Documents\Tugas_Kelompok4\Kelompok4-PemesananTravel\app\src\main\AndroidManifest.xml:39:5-41:48
 	android:screenOrientation
-		ADDED from C:\Users\Hp\AndroidStudioProjects\Pemesanan-Travel-master\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:41:9-45
+		ADDED from C:\Users\Hp\Documents\Tugas_Kelompok4\Kelompok4-PemesananTravel\app\src\main\AndroidManifest.xml:41:9-45
 	android:name
-		ADDED from C:\Users\Hp\AndroidStudioProjects\Pemesanan-Travel-master\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:40:9-72
+		ADDED from C:\Users\Hp\Documents\Tugas_Kelompok4\Kelompok4-PemesananTravel\app\src\main\AndroidManifest.xml:40:9-72
 uses-sdk
-INJECTED from C:\Users\Hp\AndroidStudioProjects\Pemesanan-Travel-master\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\Hp\AndroidStudioProjects\Pemesanan-Travel-master\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Hp\AndroidStudioProjects\Pemesanan-Travel-master\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Hp\Documents\Tugas_Kelompok4\Kelompok4-PemesananTravel\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Hp\Documents\Tugas_Kelompok4\Kelompok4-PemesananTravel\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Hp\Documents\Tugas_Kelompok4\Kelompok4-PemesananTravel\app\src\main\AndroidManifest.xml
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\a0fae3d9013be8f69fa615280ce21ea3\material-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\a0fae3d9013be8f69fa615280ce21ea3\material-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\db50d9c729baed83bc3da6fe28ac0e91\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
@@ -209,13 +209,13 @@ MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Hp\.grad
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\98c07ae8c5823fd3bdaa91112965dec8\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\78f42912b2b79c0e9bc7b7bca72757d0\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\78f42912b2b79c0e9bc7b7bca72757d0\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
-INJECTED from C:\Users\Hp\AndroidStudioProjects\Pemesanan-Travel-master\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Hp\AndroidStudioProjects\Pemesanan-Travel-master\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Hp\Documents\Tugas_Kelompok4\Kelompok4-PemesananTravel\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Hp\Documents\Tugas_Kelompok4\Kelompok4-PemesananTravel\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\Hp\AndroidStudioProjects\Pemesanan-Travel-master\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Hp\AndroidStudioProjects\Pemesanan-Travel-master\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Hp\AndroidStudioProjects\Pemesanan-Travel-master\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Hp\Documents\Tugas_Kelompok4\Kelompok4-PemesananTravel\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Hp\Documents\Tugas_Kelompok4\Kelompok4-PemesananTravel\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Hp\Documents\Tugas_Kelompok4\Kelompok4-PemesananTravel\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\Hp\AndroidStudioProjects\Pemesanan-Travel-master\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Hp\AndroidStudioProjects\Pemesanan-Travel-master\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Hp\AndroidStudioProjects\Pemesanan-Travel-master\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Hp\Documents\Tugas_Kelompok4\Kelompok4-PemesananTravel\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Hp\Documents\Tugas_Kelompok4\Kelompok4-PemesananTravel\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Hp\Documents\Tugas_Kelompok4\Kelompok4-PemesananTravel\app\src\main\AndroidManifest.xml
